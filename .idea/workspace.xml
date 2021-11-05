@@ -11,14 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="083e1ae0-f484-4cd2-bdad-cefac403ee8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/first-project/src/components/Loader.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/first-project/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-project/src/components/TodoItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/first-project/src/components/TodoItem.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-project/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/first-project/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-project/src/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/first-project/src/router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-project/src/views/Todos.vue" beforeDir="false" afterPath="$PROJECT_DIR$/first-project/src/views/Todos.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue3/theme.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +25,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/first-project/package.json" />
   </component>
   <component name="ProjectId" id="1qqDIuIx8f0GHebebQ2tVfuHj1v" />
   <component name="ProjectLevelVcsManager">
@@ -60,6 +58,8 @@
       <workItem from="1618146821145" duration="4804000" />
       <workItem from="1618482391871" duration="45000" />
       <workItem from="1618746756245" duration="3912000" />
+      <workItem from="1636082207731" duration="1992000" />
+      <workItem from="1636085138484" duration="514000" />
     </task>
     <servers />
   </component>
